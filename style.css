@@ -135,7 +135,7 @@ tr:nth-child(even) {/* nth-child(even) memilih baris tabel (<tr>) yang berada pa
   background-color: rgb(82, 95, 116);
   color: rgb(250, 250, 250);
   padding: 8px;
-  margin-top: -7px;
+  margin-top: -3px;
 }
 
 
